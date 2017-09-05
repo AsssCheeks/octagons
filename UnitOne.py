@@ -1,5 +1,7 @@
 import turtle
-#Comment section: Stephen Randall, Date last modified: 09/05/2017, File Name 'UnitOne.py', Description: This project draws four different octagons and fills them with a different color each time. All octagons aren't touching
+# Comment section: Stephen Randall, Date last modified: 09/05/2017, File Name 'UnitOne.py',
+# Description: This project draws four different octagons and fills them with a different color each time.
+# All octagons aren't touching
 turtle.speed(100)
 def move_turtle(x, y): #Fuction that moves the turtle from one place to another
     turtle.penup()
